@@ -1,0 +1,2495 @@
+[
+  {
+    "Timestamp" : 1467111268.696769,
+    "duration" : 1.098554,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 0.096183,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111269.717208,
+    "duration" : 1.020438,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 12175,
+    "startTime" : 1.194738,
+    "wifiPacketsIn" : 59,
+    "wifiBytesIn" : 22006
+  },
+  {
+    "Timestamp" : 1467111270.700632,
+    "duration" : 0.983423,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 7736,
+    "startTime" : 2.215177,
+    "wifiPacketsIn" : 25,
+    "wifiBytesIn" : 4490
+  },
+  {
+    "Timestamp" : 1467111271.700331,
+    "duration" : 0.999699,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 342,
+    "startTime" : 3.1986,
+    "wifiPacketsIn" : 4,
+    "wifiBytesIn" : 1044
+  },
+  {
+    "Timestamp" : 1467111272.780093,
+    "duration" : 1.079762,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 6031,
+    "startTime" : 4.198299,
+    "wifiPacketsIn" : 16,
+    "wifiBytesIn" : 12485
+  },
+  {
+    "Timestamp" : 1467111273.692639,
+    "duration" : 0.912546,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 144,
+    "startTime" : 5.278061,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 283
+  },
+  {
+    "Timestamp" : 1467111274.705696,
+    "duration" : 1.013057,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 2960,
+    "startTime" : 6.190607,
+    "wifiPacketsIn" : 17,
+    "wifiBytesIn" : 5249
+  },
+  {
+    "Timestamp" : 1467111275.742876,
+    "duration" : 1.03718,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 7.203664,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111276.682939,
+    "duration" : 0.940062,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 78,
+    "startTime" : 8.240845,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111277.794312,
+    "duration" : 1.111373,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 9.180906999999999,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111278.689288,
+    "duration" : 0.894975,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 10.292281,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111279.666656,
+    "duration" : 0.977367,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 11.187257,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111280.690344,
+    "duration" : 1.023688,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 3060,
+    "startTime" : 12.164624,
+    "wifiPacketsIn" : 10,
+    "wifiBytesIn" : 2359
+  },
+  {
+    "Timestamp" : 1467111281.679384,
+    "duration" : 0.989039,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 13.188313,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111282.784044,
+    "duration" : 1.104659,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 14.177353,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111283.742201,
+    "duration" : 0.958156,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 15.282013,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111284.694165,
+    "duration" : 0.951963,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 16.24017,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111285.755189,
+    "duration" : 1.061023,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 17.192134,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111286.678304,
+    "duration" : 0.923115,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 18.253157,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111287.756408,
+    "duration" : 1.078103,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 19.176273,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111288.691727,
+    "duration" : 0.935318,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 78,
+    "startTime" : 20.254377,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111289.755803,
+    "duration" : 1.064076,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 21.189695,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111290.665005,
+    "duration" : 0.909202,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 22.253771,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111291.748264,
+    "duration" : 1.083259,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 23.162973,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111292.77592,
+    "duration" : 1.027656,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 24.246232,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111293.683845,
+    "duration" : 0.907924,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 25.273889,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111294.71101,
+    "duration" : 1.027164,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 26.181814,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111295.670156,
+    "duration" : 0.959145,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 27.208979,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111296.687908,
+    "duration" : 1.017751,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 28.168125,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111297.801849,
+    "duration" : 1.113941,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 29.185876,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111298.692342,
+    "duration" : 0.890493,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 30.299817,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111299.684361,
+    "duration" : 0.992019,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 198,
+    "startTime" : 31.19031,
+    "wifiPacketsIn" : 2,
+    "wifiBytesIn" : 132
+  },
+  {
+    "Timestamp" : 1467111300.692325,
+    "duration" : 1.007963,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 32.18233,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111301.685951,
+    "duration" : 0.993626,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 198,
+    "startTime" : 33.190293,
+    "wifiPacketsIn" : 2,
+    "wifiBytesIn" : 132
+  },
+  {
+    "Timestamp" : 1467111302.773101,
+    "duration" : 1.08715,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 198,
+    "startTime" : 34.183919,
+    "wifiPacketsIn" : 2,
+    "wifiBytesIn" : 132
+  },
+  {
+    "Timestamp" : 1467111303.688445,
+    "duration" : 0.915344,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 35.271069,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111304.693586,
+    "duration" : 1.00514,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 276,
+    "startTime" : 36.186414,
+    "wifiPacketsIn" : 2,
+    "wifiBytesIn" : 132
+  },
+  {
+    "Timestamp" : 1467111305.755451,
+    "duration" : 1.061865,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 198,
+    "startTime" : 37.191554,
+    "wifiPacketsIn" : 2,
+    "wifiBytesIn" : 132
+  },
+  {
+    "Timestamp" : 1467111306.686404,
+    "duration" : 0.930952,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 38.25342,
+    "wifiPacketsIn" : 4,
+    "wifiBytesIn" : 168
+  },
+  {
+    "Timestamp" : 1467111307.743216,
+    "duration" : 1.056811,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 39.184373,
+    "wifiPacketsIn" : 7,
+    "wifiBytesIn" : 294
+  },
+  {
+    "Timestamp" : 1467111308.693643,
+    "duration" : 0.950427,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 40.241184,
+    "wifiPacketsIn" : 7,
+    "wifiBytesIn" : 294
+  },
+  {
+    "Timestamp" : 1467111309.668262,
+    "duration" : 0.974619,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 42,
+    "startTime" : 41.191611,
+    "wifiPacketsIn" : 4,
+    "wifiBytesIn" : 168
+  },
+  {
+    "Timestamp" : 1467111310.664271,
+    "duration" : 0.996009,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 42.16623,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111311.671897,
+    "duration" : 1.007626,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 43.162239,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111312.79781,
+    "duration" : 1.125912,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 44.169866,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111313.665065,
+    "duration" : 0.867255,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 45.295778,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111314.679458,
+    "duration" : 1.014393,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 46.163033,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111315.695717,
+    "duration" : 1.016259,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 47.177426,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111316.694631,
+    "duration" : 0.998914,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 48.193685,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111317.788349,
+    "duration" : 1.093717,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 49.1926,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111318.685281,
+    "duration" : 0.896932,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 50.286317,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111319.690826,
+    "duration" : 1.005544,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 51.18325,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111320.696,
+    "duration" : 1.005173,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 52.188795,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111321.712486,
+    "duration" : 1.016485,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 53.193969,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111322.778183,
+    "duration" : 1.065697,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 54.210454,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111323.686322,
+    "duration" : 0.908139,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 55.276151,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111324.690304,
+    "duration" : 1.003982,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 56.18429,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111325.73567,
+    "duration" : 1.045366,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 57.188272,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111326.743767,
+    "duration" : 1.008096,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 58.233639,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111327.73731,
+    "duration" : 0.993542,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 59.241736,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111328.69097,
+    "duration" : 0.953659,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 60.235279,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111329.749992,
+    "duration" : 1.059021,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 61.188939,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111330.70663,
+    "duration" : 0.956638,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 62.24796,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111331.670795,
+    "duration" : 0.964165,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 63.204598,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111332.79287,
+    "duration" : 1.122075,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 64.168763,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111333.70714,
+    "duration" : 0.91427,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 65.29083799999999,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111334.664583,
+    "duration" : 0.957443,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 66.205108,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111335.678729,
+    "duration" : 1.014146,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 67.16255099999999,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111336.693778,
+    "duration" : 1.015049,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 62,
+    "startTime" : 68.176697,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111337.773084,
+    "duration" : 1.079305,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 69.19174700000001,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111338.68391,
+    "duration" : 0.910825,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 70.27105299999999,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111339.742078,
+    "duration" : 1.058167,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 71.181879,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111340.6944,
+    "duration" : 0.952322,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 72.24004600000001,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111341.68493,
+    "duration" : 0.990529,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 73.192369,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111342.806753,
+    "duration" : 1.121822,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 334,
+    "startTime" : 74.18289900000001,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111343.672767,
+    "duration" : 0.866014,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 400,
+    "startTime" : 75.304721,
+    "wifiPacketsIn" : 2,
+    "wifiBytesIn" : 185
+  },
+  {
+    "Timestamp" : 1467111344.687341,
+    "duration" : 1.014573,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 167,
+    "startTime" : 76.17073600000001,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111345.722835,
+    "duration" : 1.035494,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 167,
+    "startTime" : 77.185309,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111346.760938,
+    "duration" : 1.038103,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 66,
+    "startTime" : 78.220803,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 119
+  },
+  {
+    "Timestamp" : 1467111347.739424,
+    "duration" : 0.978486,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 79.258906,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111348.693236,
+    "duration" : 0.953811,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 80.237393,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111349.73546,
+    "duration" : 1.042223,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 81.191205,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111350.750503,
+    "duration" : 1.015042,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 82.233429,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111351.757036,
+    "duration" : 1.006532,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 83.24847200000001,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111352.761705,
+    "duration" : 1.004669,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 84.255004,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111353.708578,
+    "duration" : 0.946872,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 85.259674,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111354.72394,
+    "duration" : 1.015361,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 86.206547,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111355.745371,
+    "duration" : 1.021431,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 87.221908,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111356.754819,
+    "duration" : 1.009448,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 88.24333900000001,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111357.789562,
+    "duration" : 1.034742,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 89.252788,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111358.701113,
+    "duration" : 0.911551,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 90.28753,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111359.725638,
+    "duration" : 1.024524,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 91.199082,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111360.733338,
+    "duration" : 1.0077,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 92.223606,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111361.667543,
+    "duration" : 0.934205,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 93.231306,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111362.775732,
+    "duration" : 1.108189,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 94.165511,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111363.719953,
+    "duration" : 0.9442199999999999,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 95.273701,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111364.734571,
+    "duration" : 1.014617,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 96.217922,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111365.748837,
+    "duration" : 1.014265,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 97.23254,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111366.732675,
+    "duration" : 0.983837,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 98.24680600000001,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111367.771389,
+    "duration" : 1.038713,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 99.230644,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111368.715404,
+    "duration" : 0.944014,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 100.269358,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111369.743146,
+    "duration" : 1.027741,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 101.213373,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111370.663672,
+    "duration" : 0.920525,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 102.241115,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111371.685397,
+    "duration" : 1.021724,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 103.161641,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111372.791247,
+    "duration" : 1.10585,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 104.183365,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111373.664189,
+    "duration" : 0.872942,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 105.289215,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111374.686307,
+    "duration" : 1.022118,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 106.162157,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111375.727684,
+    "duration" : 1.041376,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 107.184276,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111376.707988,
+    "duration" : 0.980304,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 108.225652,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111377.77868,
+    "duration" : 1.070691,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 109.205957,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111378.728474,
+    "duration" : 0.949793,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 110.276649,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111379.727167,
+    "duration" : 0.9986930000000001,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 111.226442,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111380.682948,
+    "duration" : 0.955781,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 112.225135,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111381.707047,
+    "duration" : 1.024099,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 113.180916,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111382.772744,
+    "duration" : 1.065697,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 114.205015,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111383.692358,
+    "duration" : 0.919613,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 115.270713,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111384.664979,
+    "duration" : 0.97262,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 116.190327,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111385.699277,
+    "duration" : 1.034297,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 117.162948,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111386.721097,
+    "duration" : 1.02182,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 118.197245,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111387.762988,
+    "duration" : 1.041891,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 119.219065,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111388.675186,
+    "duration" : 0.912197,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 120.260957,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111389.677689,
+    "duration" : 1.002502,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 5939,
+    "startTime" : 121.173155,
+    "wifiPacketsIn" : 20,
+    "wifiBytesIn" : 6376
+  },
+  {
+    "Timestamp" : 1467111390.740578,
+    "duration" : 1.062889,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 5832,
+    "startTime" : 122.175657,
+    "wifiPacketsIn" : 100,
+    "wifiBytesIn" : 145272
+  },
+  {
+    "Timestamp" : 1467111391.738245,
+    "duration" : 0.997667,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 15798,
+    "startTime" : 123.238546,
+    "wifiPacketsIn" : 346,
+    "wifiBytesIn" : 502545
+  },
+  {
+    "Timestamp" : 1467111392.794771,
+    "duration" : 1.056525,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 124.236214,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111393.757218,
+    "duration" : 0.9624470000000001,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 125.292739,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111394.760268,
+    "duration" : 1.00305,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 42,
+    "startTime" : 126.255186,
+    "wifiPacketsIn" : 2,
+    "wifiBytesIn" : 84
+  },
+  {
+    "Timestamp" : 1467111395.669129,
+    "duration" : 0.908861,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 127.258236,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111396.69678,
+    "duration" : 1.027651,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 128.167097,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111397.781908,
+    "duration" : 1.085127,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 129.194749,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111398.730765,
+    "duration" : 0.948857,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 130.279876,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111399.698652,
+    "duration" : 0.967886,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 131.228734,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111400.694167,
+    "duration" : 0.995515,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 3406,
+    "startTime" : 132.19662,
+    "wifiPacketsIn" : 10,
+    "wifiBytesIn" : 5445
+  },
+  {
+    "Timestamp" : 1467111401.749794,
+    "duration" : 1.055627,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 133.192135,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111402.796056,
+    "duration" : 1.046261,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 134.247763,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111403.715242,
+    "duration" : 0.9191859999999999,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 135.294024,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111404.726429,
+    "duration" : 1.011187,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 136.21321,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111405.743477,
+    "duration" : 1.017047,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 137.224398,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111406.683553,
+    "duration" : 0.940075,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 138.241446,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111407.766233,
+    "duration" : 1.08268,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 139.181521,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111408.758538,
+    "duration" : 0.992305,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 140.264201,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111409.728999,
+    "duration" : 0.970461,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 141.256506,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111410.676217,
+    "duration" : 0.947217,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 142.226968,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111411.723839,
+    "duration" : 1.047622,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 143.174185,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111412.767301,
+    "duration" : 1.043461,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 144.221808,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111413.66992,
+    "duration" : 0.9026189999999999,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 145.265269,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111414.726047,
+    "duration" : 1.056126,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 146.167889,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111415.6989,
+    "duration" : 0.972853,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 147.224015,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111416.718278,
+    "duration" : 1.019377,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 148.196869,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111417.766338,
+    "duration" : 1.04806,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 149.216246,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111418.714924,
+    "duration" : 0.948585,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 150.264307,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111419.743074,
+    "duration" : 1.02815,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 151.212892,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111420.756181,
+    "duration" : 1.013107,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 152.241042,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111421.693676,
+    "duration" : 0.937495,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 153.254149,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111422.769914,
+    "duration" : 1.076237,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 154.191645,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111423.752744,
+    "duration" : 0.98283,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 155.267882,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111424.666863,
+    "duration" : 0.914118,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 156.250713,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111425.685161,
+    "duration" : 1.018297,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 157.164832,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111426.693148,
+    "duration" : 1.007986,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 158.18313,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111427.761864,
+    "duration" : 1.068716,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 159.191116,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111428.761907,
+    "duration" : 1.000042,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 160.259833,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111429.752742,
+    "duration" : 0.990835,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 161.259875,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111430.675665,
+    "duration" : 0.922922,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 162.250711,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111431.696258,
+    "duration" : 1.020592,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 163.173634,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111432.775942,
+    "duration" : 1.079683,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 164.194227,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111433.735036,
+    "duration" : 0.959094,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 165.27391,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111434.753105,
+    "duration" : 1.018068,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 166.233005,
+    "wifiPacketsIn" : 3,
+    "wifiBytesIn" : 296
+  },
+  {
+    "Timestamp" : 1467111435.684861,
+    "duration" : 0.931755,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 167.251074,
+    "wifiPacketsIn" : 2,
+    "wifiBytesIn" : 254
+  },
+  {
+    "Timestamp" : 1467111436.705925,
+    "duration" : 1.021063,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 168.18283,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111437.788082,
+    "duration" : 1.082156,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 169.203894,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111438.708846,
+    "duration" : 0.920763,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 170.286051,
+    "wifiPacketsIn" : 4,
+    "wifiBytesIn" : 338
+  },
+  {
+    "Timestamp" : 1467111439.727074,
+    "duration" : 1.018227,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 171.206815,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111440.672851,
+    "duration" : 0.945777,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 172.225042,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111441.695823,
+    "duration" : 1.022972,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 173.170819,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111442.805997,
+    "duration" : 1.110174,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 174.193791,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111443.679224,
+    "duration" : 0.8732259999999999,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 175.303966,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111444.70101,
+    "duration" : 1.021786,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 176.177192,
+    "wifiPacketsIn" : 3,
+    "wifiBytesIn" : 126
+  },
+  {
+    "Timestamp" : 1467111445.678365,
+    "duration" : 0.9773539999999999,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 177.198979,
+    "wifiPacketsIn" : 2,
+    "wifiBytesIn" : 84
+  },
+  {
+    "Timestamp" : 1467111446.665959,
+    "duration" : 0.987594,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 178.176333,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111447.729202,
+    "duration" : 1.063242,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 179.163928,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111448.676878,
+    "duration" : 0.947676,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 180.22717,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111449.67337,
+    "duration" : 0.996491,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 181.174847,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111450.675505,
+    "duration" : 1.002134,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 182.171339,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111451.694238,
+    "duration" : 1.018732,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 183.173474,
+    "wifiPacketsIn" : 2,
+    "wifiBytesIn" : 84
+  },
+  {
+    "Timestamp" : 1467111452.777617,
+    "duration" : 1.083378,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 184.192207,
+    "wifiPacketsIn" : 5,
+    "wifiBytesIn" : 210
+  },
+  {
+    "Timestamp" : 1467111453.689913,
+    "duration" : 0.912296,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 185.275585,
+    "wifiPacketsIn" : 8,
+    "wifiBytesIn" : 336
+  },
+  {
+    "Timestamp" : 1467111454.683291,
+    "duration" : 0.993377,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 186.187882,
+    "wifiPacketsIn" : 7,
+    "wifiBytesIn" : 294
+  },
+  {
+    "Timestamp" : 1467111455.686457,
+    "duration" : 1.003166,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 187.181259,
+    "wifiPacketsIn" : 4,
+    "wifiBytesIn" : 168
+  },
+  {
+    "Timestamp" : 1467111456.687009,
+    "duration" : 1.000552,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 188.184425,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111457.790961,
+    "duration" : 1.103951,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 189.184978,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111458.690917,
+    "duration" : 0.8999549999999999,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 190.28893,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111459.693547,
+    "duration" : 1.00263,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 191.188885,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111460.745101,
+    "duration" : 1.051554,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 192.191515,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111461.761514,
+    "duration" : 1.016413,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 193.243069,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111462.807614,
+    "duration" : 1.046099,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 194.259483,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111463.719983,
+    "duration" : 0.912369,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 195.305582,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111464.73983,
+    "duration" : 1.019846,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 196.217952,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111465.759979,
+    "duration" : 1.020149,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 197.237798,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111466.668425,
+    "duration" : 0.908446,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 198.257947,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111467.855636,
+    "duration" : 1.18721,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 594,
+    "startTime" : 199.166394,
+    "wifiPacketsIn" : 5,
+    "wifiBytesIn" : 330
+  },
+  {
+    "Timestamp" : 1467111468.696801,
+    "duration" : 0.841164,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 132,
+    "startTime" : 200.353605,
+    "wifiPacketsIn" : 2,
+    "wifiBytesIn" : 132
+  },
+  {
+    "Timestamp" : 1467111469.690256,
+    "duration" : 0.993455,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 201.194769,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111470.668342,
+    "duration" : 0.978085,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 202.188225,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111471.668433,
+    "duration" : 1.000091,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 203.16631,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111472.788517,
+    "duration" : 1.120084,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 42,
+    "startTime" : 204.166401,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111473.694612,
+    "duration" : 0.906094,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 205.286486,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111474.667883,
+    "duration" : 0.97327,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 5938,
+    "startTime" : 206.192581,
+    "wifiPacketsIn" : 54,
+    "wifiBytesIn" : 61071
+  },
+  {
+    "Timestamp" : 1467111475.681701,
+    "duration" : 1.013817,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 1388,
+    "startTime" : 207.165852,
+    "wifiPacketsIn" : 4,
+    "wifiBytesIn" : 2081
+  },
+  {
+    "Timestamp" : 1467111476.686038,
+    "duration" : 1.004337,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 208.179669,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111477.864641,
+    "duration" : 1.178603,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 209.184006,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111478.663778,
+    "duration" : 0.799137,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 210.362609,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111479.687204,
+    "duration" : 1.023425,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 211.161747,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111480.734021,
+    "duration" : 1.046816,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 212.185173,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111481.686554,
+    "duration" : 0.952533,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 213.231989,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111482.78693,
+    "duration" : 1.100375,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 214.184523,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111483.665646,
+    "duration" : 0.8787160000000001,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 215.284898,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111484.759692,
+    "duration" : 1.094046,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 216.163614,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111485.687957,
+    "duration" : 0.928265,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 217.25766,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111486.71007,
+    "duration" : 1.022113,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 218.185925,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111487.791255,
+    "duration" : 1.081185,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 219.208038,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111488.664101,
+    "duration" : 0.872845,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 3220,
+    "startTime" : 220.289224,
+    "wifiPacketsIn" : 6,
+    "wifiBytesIn" : 2866
+  },
+  {
+    "Timestamp" : 1467111489.673236,
+    "duration" : 1.009134,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 3257,
+    "startTime" : 221.16207,
+    "wifiPacketsIn" : 12,
+    "wifiBytesIn" : 5060
+  },
+  {
+    "Timestamp" : 1467111490.684136,
+    "duration" : 1.010899,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 222.171205,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111491.702157,
+    "duration" : 1.018021,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 223.182104,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111492.785303,
+    "duration" : 1.083146,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 224.200125,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111493.663385,
+    "duration" : 0.878082,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 225.283271,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111494.664374,
+    "duration" : 1.000989,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 226.161353,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111495.685546,
+    "duration" : 1.021171,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 227.162343,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111496.666999,
+    "duration" : 0.981452,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 228.183515,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111497.772184,
+    "duration" : 1.105184,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 2784,
+    "startTime" : 229.164968,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 66
+  },
+  {
+    "Timestamp" : 1467111498.670632,
+    "duration" : 0.898448,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 132,
+    "startTime" : 230.270152,
+    "wifiPacketsIn" : 2,
+    "wifiBytesIn" : 601
+  },
+  {
+    "Timestamp" : 1467111499.687618,
+    "duration" : 1.016985,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 231.168601,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111500.671392,
+    "duration" : 0.983774,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 232.185586,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111501.680297,
+    "duration" : 1.008904,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 233.169361,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111502.806911,
+    "duration" : 1.126614,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 234.178265,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111503.679114,
+    "duration" : 0.872203,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 235.304879,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111504.695036,
+    "duration" : 1.015921,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 236.177083,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111505.676978,
+    "duration" : 0.981942,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 18138,
+    "startTime" : 237.193004,
+    "wifiPacketsIn" : 42,
+    "wifiBytesIn" : 12754
+  },
+  {
+    "Timestamp" : 1467111506.678076,
+    "duration" : 1.001097,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 264,
+    "startTime" : 238.174947,
+    "wifiPacketsIn" : 4,
+    "wifiBytesIn" : 1809
+  },
+  {
+    "Timestamp" : 1467111507.794011,
+    "duration" : 1.115935,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 239.176044,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111508.680308,
+    "duration" : 0.886297,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 240.291979,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111509.681515,
+    "duration" : 1.001207,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 1439,
+    "startTime" : 241.178276,
+    "wifiPacketsIn" : 7,
+    "wifiBytesIn" : 617
+  },
+  {
+    "Timestamp" : 1467111510.695584,
+    "duration" : 1.014069,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 242.179483,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111511.683613,
+    "duration" : 0.988028,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 243.193553,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111512.826847,
+    "duration" : 1.143233,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 244.181582,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111513.692939,
+    "duration" : 0.8660910000000001,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 245.324816,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111514.694691,
+    "duration" : 1.001751,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 1060,
+    "startTime" : 246.190908,
+    "wifiPacketsIn" : 2,
+    "wifiBytesIn" : 601
+  },
+  {
+    "Timestamp" : 1467111515.688379,
+    "duration" : 0.993687,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 247.19266,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111516.689975,
+    "duration" : 1.001596,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 248.186347,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111517.775911,
+    "duration" : 1.085936,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 1539,
+    "startTime" : 249.187943,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111518.695242,
+    "duration" : 0.91933,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 13421,
+    "startTime" : 250.27388,
+    "wifiPacketsIn" : 28,
+    "wifiBytesIn" : 8553
+  },
+  {
+    "Timestamp" : 1467111519.693219,
+    "duration" : 0.997976,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 264,
+    "startTime" : 251.193211,
+    "wifiPacketsIn" : 4,
+    "wifiBytesIn" : 1809
+  },
+  {
+    "Timestamp" : 1467111520.694505,
+    "duration" : 1.001285,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 252.191188,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111521.692969,
+    "duration" : 0.998463,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 253.192474,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111522.773717,
+    "duration" : 1.080748,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 254.190937,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111523.694595,
+    "duration" : 0.9208769999999999,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 42,
+    "startTime" : 255.271686,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 42
+  },
+  {
+    "Timestamp" : 1467111524.695216,
+    "duration" : 1.000621,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 256.192563,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111525.678578,
+    "duration" : 0.983361,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 928,
+    "startTime" : 257.193185,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 66
+  },
+  {
+    "Timestamp" : 1467111526.689861,
+    "duration" : 1.011282,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 132,
+    "startTime" : 258.176547,
+    "wifiPacketsIn" : 2,
+    "wifiBytesIn" : 601
+  },
+  {
+    "Timestamp" : 1467111527.798025,
+    "duration" : 1.108164,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 259.187829,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111528.686461,
+    "duration" : 0.888435,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 1539,
+    "startTime" : 260.295994,
+    "wifiPacketsIn" : 3,
+    "wifiBytesIn" : 174
+  },
+  {
+    "Timestamp" : 1467111529.67915,
+    "duration" : 0.992688,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 14189,
+    "startTime" : 261.18443,
+    "wifiPacketsIn" : 29,
+    "wifiBytesIn" : 9100
+  },
+  {
+    "Timestamp" : 1467111530.692154,
+    "duration" : 1.013003,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 262.177119,
+    "wifiPacketsIn" : 1,
+    "wifiBytesIn" : 66
+  },
+  {
+    "Timestamp" : 1467111531.68657,
+    "duration" : 0.994416,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 132,
+    "startTime" : 263.190122,
+    "wifiPacketsIn" : 2,
+    "wifiBytesIn" : 1208
+  },
+  {
+    "Timestamp" : 1467111532.774614,
+    "duration" : 1.088043,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 264.184539,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111533.687871,
+    "duration" : 0.913257,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 265.272582,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111534.685134,
+    "duration" : 0.997262,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 266.18584,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111535.685098,
+    "duration" : 0.999963,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 267.183103,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111536.686133,
+    "duration" : 1.001035,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 268.183066,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111537.773447,
+    "duration" : 1.087313,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 269.184102,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111538.694496,
+    "duration" : 0.921048,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 1060,
+    "startTime" : 270.271416,
+    "wifiPacketsIn" : 2,
+    "wifiBytesIn" : 601
+  },
+  {
+    "Timestamp" : 1467111539.689625,
+    "duration" : 0.995129,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 15092,
+    "startTime" : 271.192464,
+    "wifiPacketsIn" : 30,
+    "wifiBytesIn" : 9130
+  },
+  {
+    "Timestamp" : 1467111540.690601,
+    "duration" : 1.000976,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 272.187593,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111541.692942,
+    "duration" : 1.00234,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 132,
+    "startTime" : 273.18857,
+    "wifiPacketsIn" : 2,
+    "wifiBytesIn" : 1208
+  },
+  {
+    "Timestamp" : 1467111542.778765,
+    "duration" : 1.085822,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 274.190911,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111543.693536,
+    "duration" : 0.91477,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 275.276734,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  },
+  {
+    "Timestamp" : 1467111544.693906,
+    "duration" : 1.000369,
+    "wifiPacketsOut" : 0,
+    "wifiBytesOut" : 0,
+    "startTime" : 276.191505,
+    "wifiPacketsIn" : 0,
+    "wifiBytesIn" : 0
+  }
+]

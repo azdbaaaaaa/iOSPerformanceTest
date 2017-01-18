@@ -1,0 +1,94 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Memory</title>
+
+		<script type="text/javascript" src="http://cdn.hcharts.cn/jquery/jquery-1.8.3.min.js"></script>
+		<style type="text/css">
+${demo.css}
+		</style>
+		<script type="text/javascript">
+$(function () {
+    $('#Memory').highcharts({
+        chart: {
+            zoomType: 'x',
+            spacingRight: 20
+        },
+        title: {
+            text: 'Memory'
+        },
+        subtitle: {
+            text: document.ontouchstart === undefined ?
+                '选中区域可查看具体区域中的数据图表' :
+                'Pinch the chart to zoom in'
+        },
+        xAxis: {
+        	tickInterval: 5,
+            categories: [
+'2016-06-29 09:47:31:496','2016-06-29 09:47:32:720','2016-06-29 09:47:33:812','2016-06-29 09:47:34:988','2016-06-29 09:47:36:091','2016-06-29 09:47:37:237','2016-06-29 09:47:38:334','2016-06-29 09:47:39:412','2016-06-29 09:47:40:535','2016-06-29 09:47:41:644','2016-06-29 09:47:42:732','2016-06-29 09:47:43:825','2016-06-29 09:47:44:925','2016-06-29 09:47:46:021','2016-06-29 09:47:47:104','2016-06-29 09:47:48:192','2016-06-29 09:47:49:287','2016-06-29 09:47:50:396','2016-06-29 09:47:51:480','2016-06-29 09:47:52:568','2016-06-29 09:47:53:652','2016-06-29 09:47:54:725','2016-06-29 09:47:55:804','2016-06-29 09:47:56:909','2016-06-29 09:47:58:020','2016-06-29 09:47:59:231','2016-06-29 09:48:00:424','2016-06-29 09:48:01:538','2016-06-29 09:48:02:717','2016-06-29 09:48:03:931','2016-06-29 09:48:05:138','2016-06-29 09:48:06:363','2016-06-29 09:48:07:579','2016-06-29 09:48:08:819',
+        ]},
+        yAxis: {min: 0,
+        	title: {
+        	    text: '(内存占用)'
+        	},
+            labels:{formatter: function(){return parseInt(this.value/1024/1024) + 'MB'}}
+        },
+		tooltip: {
+            formatter: function () {
+                var s = '<b>' + this.x + '</b>';
+
+                $.each(this.points, function () {
+                    s += '<br/>' + this.series.name + ': ' + '<b>' +
+                    parseInt(this.y/1024/1024) + '</b>' + ' MB '
+                    // + '<b>' + this.point.activity + '</b>';
+                });
+
+                return s;
+            },
+            shared: true
+        },
+        legend: {
+            enabled: true
+        },
+        plotOptions: {
+            area: {
+                // fillColor: {
+                //     linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1},
+                //     stops: [
+                //         [0, Highcharts.getOptions().colors[0]],
+                //         [1, Highcharts.Color(Highcharts.getOptions().colors[0]).setOpacity(0).get('rgba')]
+                //     ]
+                // },
+                lineWidth: 1,
+                marker: {
+                    enabled: false
+                },
+                shadow: false,
+                states: {
+                    hover: {
+                        lineWidth: 1
+                    }
+                },
+                threshold: null
+            }
+        },		
+        series: [
+        	{type: 'area',name: 'VirtualSize',data: [
+            709459968,774832128,832389120,959053824,999391232,999538688,1000407040,1000407040,1000407040,998637568,998637568,999456768,1049739264,1054588928,1070071808,1085095936,1058553856,1079345152,1074036736,1070514176,1083244544,1083277312,1097957376,1073528832,1085276160,1092993024,1093697536,1093713920,1094074368,1094074368,1094074368,1094074368,1087586304,1087586304,
+            ]},{type: 'area',name: 'ResidentSize',data: [
+            233472,15753216,31948800,33886208,54702080,54300672,56655872,56668160,56676352,56868864,56885248,57245696,61628416,63344640,78827520,64172032,58941440,66150400,65826816,63684608,71561216,71593984,74936320,72318976,70070272,71483392,69697536,64438272,64909312,64913408,64913408,64917504,64278528,64311296,
+            ]}
+        ]
+    });
+});				
+		</script>
+	</head>
+<body>
+<script src="http://cdn.hcharts.cn/highcharts/highcharts.js"></script>
+<script src="http://cdn.hcharts.cn/highcharts/modules/exporting.js"></script>
+
+<div id="Memory" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+</body>
+</html>

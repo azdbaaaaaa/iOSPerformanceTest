@@ -1,0 +1,690 @@
+[
+  {
+    "XRVideoCardRunTimeStamp" : 1469585567.083521,
+    "FramesPerSecond" : 0
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585568.087719,
+    "FramesPerSecond" : 27
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585569.091341,
+    "FramesPerSecond" : 18
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585570.103549,
+    "FramesPerSecond" : 24
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585571.109619,
+    "FramesPerSecond" : 59
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585572.111859,
+    "FramesPerSecond" : 60
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585573.11793,
+    "FramesPerSecond" : 59
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585574.124643,
+    "FramesPerSecond" : 59
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585575.131554,
+    "FramesPerSecond" : 60
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585576.137283,
+    "FramesPerSecond" : 59
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585577.143985,
+    "FramesPerSecond" : 59
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585578.150789,
+    "FramesPerSecond" : 59
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585579.160524,
+    "FramesPerSecond" : 60
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585580.180641,
+    "FramesPerSecond" : 58
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585581.187501,
+    "FramesPerSecond" : 60
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585582.194213,
+    "FramesPerSecond" : 59
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585583.201049,
+    "FramesPerSecond" : 60
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585584.206401,
+    "FramesPerSecond" : 59
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585585.212005,
+    "FramesPerSecond" : 59
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585586.215832,
+    "FramesPerSecond" : 19
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585587.221481,
+    "FramesPerSecond" : 5
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585588.223335,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585589.226152,
+    "FramesPerSecond" : 47
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585590.228858,
+    "FramesPerSecond" : 51
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585591.234853,
+    "FramesPerSecond" : 17
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585592.237828,
+    "FramesPerSecond" : 45
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585593.240116,
+    "FramesPerSecond" : 59
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585594.244993,
+    "FramesPerSecond" : 49
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585595.25076,
+    "FramesPerSecond" : 56
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585596.256601,
+    "FramesPerSecond" : 37
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585597.261649,
+    "FramesPerSecond" : 23
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585598.265626,
+    "FramesPerSecond" : 1
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585599.270385,
+    "FramesPerSecond" : 52
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585600.276144,
+    "FramesPerSecond" : 35
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585601.279545,
+    "FramesPerSecond" : 14
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585602.286369,
+    "FramesPerSecond" : 20
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585603.288223,
+    "FramesPerSecond" : 29
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585604.29393,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585605.29966,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585606.305302,
+    "FramesPerSecond" : 32
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585607.308021,
+    "FramesPerSecond" : 35
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585608.311636,
+    "FramesPerSecond" : 29
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585609.317425,
+    "FramesPerSecond" : 8
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585610.320451,
+    "FramesPerSecond" : 0
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585611.324194,
+    "FramesPerSecond" : 0
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585612.328343,
+    "FramesPerSecond" : 0
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585613.335044,
+    "FramesPerSecond" : 0
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585614.341822,
+    "FramesPerSecond" : 34
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585615.361632,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585616.367384,
+    "FramesPerSecond" : 22
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585617.373086,
+    "FramesPerSecond" : 31
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585618.378523,
+    "FramesPerSecond" : 29
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585619.381285,
+    "FramesPerSecond" : 7
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585620.387099,
+    "FramesPerSecond" : 31
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585621.391574,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585622.398675,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585623.402751,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585624.40651,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585625.413205,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585626.419848,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585627.425867,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585628.432533,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585629.439334,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585630.44484,
+    "FramesPerSecond" : 12
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585631.450488,
+    "FramesPerSecond" : 28
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585632.456241,
+    "FramesPerSecond" : 28
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585633.46188,
+    "FramesPerSecond" : 38
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585634.466252,
+    "FramesPerSecond" : 0
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585635.472961,
+    "FramesPerSecond" : 15
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585636.475566,
+    "FramesPerSecond" : 0
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585637.482434,
+    "FramesPerSecond" : 0
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585638.489189,
+    "FramesPerSecond" : 29
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585639.495376,
+    "FramesPerSecond" : 35
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585640.499113,
+    "FramesPerSecond" : 0
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585641.505667,
+    "FramesPerSecond" : 0
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585642.511886,
+    "FramesPerSecond" : 13
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585643.51745,
+    "FramesPerSecond" : 28
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585644.530587,
+    "FramesPerSecond" : 34
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585645.535515,
+    "FramesPerSecond" : 16
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585646.537778,
+    "FramesPerSecond" : 37
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585647.544115,
+    "FramesPerSecond" : 14
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585648.55117,
+    "FramesPerSecond" : 9
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585649.5576,
+    "FramesPerSecond" : 40
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585650.562392,
+    "FramesPerSecond" : 43
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585651.56642,
+    "FramesPerSecond" : 59
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585652.567372,
+    "FramesPerSecond" : 50
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585653.573001,
+    "FramesPerSecond" : 28
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585654.579788,
+    "FramesPerSecond" : 0
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585655.583237,
+    "FramesPerSecond" : 0
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585656.589075,
+    "FramesPerSecond" : 22
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585657.590942,
+    "FramesPerSecond" : 30
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585658.593549,
+    "FramesPerSecond" : 23
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585659.597125,
+    "FramesPerSecond" : 46
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585660.601624,
+    "FramesPerSecond" : 46
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585661.604884,
+    "FramesPerSecond" : 56
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585662.610286,
+    "FramesPerSecond" : 55
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585663.615616,
+    "FramesPerSecond" : 55
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585664.62132,
+    "FramesPerSecond" : 39
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585665.626833,
+    "FramesPerSecond" : 39
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585666.629387,
+    "FramesPerSecond" : 39
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585667.63388,
+    "FramesPerSecond" : 46
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585668.638104,
+    "FramesPerSecond" : 39
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585669.643835,
+    "FramesPerSecond" : 40
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585670.649304,
+    "FramesPerSecond" : 49
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585671.655003,
+    "FramesPerSecond" : 36
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585672.660705,
+    "FramesPerSecond" : 31
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585673.665423,
+    "FramesPerSecond" : 31
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585674.669171,
+    "FramesPerSecond" : 33
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585675.676422,
+    "FramesPerSecond" : 29
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585676.683112,
+    "FramesPerSecond" : 40
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585677.686465,
+    "FramesPerSecond" : 43
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585678.691317,
+    "FramesPerSecond" : 39
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585679.700859,
+    "FramesPerSecond" : 50
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585680.706798,
+    "FramesPerSecond" : 42
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585681.712745,
+    "FramesPerSecond" : 32
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585682.716061,
+    "FramesPerSecond" : 27
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585683.721281,
+    "FramesPerSecond" : 40
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585684.725445,
+    "FramesPerSecond" : 41
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585685.731728,
+    "FramesPerSecond" : 49
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585686.736068,
+    "FramesPerSecond" : 42
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585687.741774,
+    "FramesPerSecond" : 48
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585688.784762,
+    "FramesPerSecond" : 13
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585689.792384,
+    "FramesPerSecond" : 31
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585690.795642,
+    "FramesPerSecond" : 58
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585691.801877,
+    "FramesPerSecond" : 7
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585692.805439,
+    "FramesPerSecond" : 40
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585693.810065,
+    "FramesPerSecond" : 17
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585694.812228,
+    "FramesPerSecond" : 42
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585695.816482,
+    "FramesPerSecond" : 7
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585696.822237,
+    "FramesPerSecond" : 23
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585697.829346,
+    "FramesPerSecond" : 19
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585698.831492,
+    "FramesPerSecond" : 0
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585699.838357,
+    "FramesPerSecond" : 0
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585700.845052,
+    "FramesPerSecond" : 20
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585701.845808,
+    "FramesPerSecond" : 22
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585702.850947,
+    "FramesPerSecond" : 18
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585703.853968,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585704.860526,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585705.86716,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585706.873792,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585707.880472,
+    "FramesPerSecond" : 12
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585708.887397,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585709.892499,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585710.89648,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585711.902578,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585712.908715,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585713.915408,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585714.922452,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585715.925582,
+    "FramesPerSecond" : 12
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585716.930854,
+    "FramesPerSecond" : 30
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585717.936427,
+    "FramesPerSecond" : 20
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585718.948205,
+    "FramesPerSecond" : 28
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585719.953691,
+    "FramesPerSecond" : 30
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585720.957641,
+    "FramesPerSecond" : 43
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585721.961665,
+    "FramesPerSecond" : 20
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585722.967374,
+    "FramesPerSecond" : 0
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585723.97253,
+    "FramesPerSecond" : 0
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585724.97834,
+    "FramesPerSecond" : 3
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585725.984968,
+    "FramesPerSecond" : 7
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585726.990961,
+    "FramesPerSecond" : 50
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585727.997659,
+    "FramesPerSecond" : 31
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585729.00349,
+    "FramesPerSecond" : 6
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585730.007792,
+    "FramesPerSecond" : 36
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585731.014235,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585732.019932,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585733.021334,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585734.027392,
+    "FramesPerSecond" : 12
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585735.03371,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585736.038172,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585737.044877,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585738.051548,
+    "FramesPerSecond" : 11
+  },
+  {
+    "XRVideoCardRunTimeStamp" : 1469585739.058301,
+    "FramesPerSecond" : 11
+  }
+]

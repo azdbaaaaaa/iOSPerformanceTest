@@ -1,0 +1,1192 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+<script src="http://cdn.hcharts.cn/jquery/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(function () {
+    $('#CPU').highcharts({
+        chart: {
+            type: 'line'
+        },
+        title: {
+            text: 'CPU'
+        },
+        // subtitle: {
+        //     text: '专项测试'
+        // },
+        xAxis: {
+            tickInterval: 5,
+            categories: 
+['2016-06-29 09:47:31:496', '2016-06-29 09:47:32:720', '2016-06-29 09:47:33:812', '2016-06-29 09:47:34:988', '2016-06-29 09:47:36:091', '2016-06-29 09:47:37:237', '2016-06-29 09:47:38:334', '2016-06-29 09:47:39:412', '2016-06-29 09:47:40:535', '2016-06-29 09:47:41:644', '2016-06-29 09:47:42:732', '2016-06-29 09:47:43:825', '2016-06-29 09:47:44:925', '2016-06-29 09:47:46:021', '2016-06-29 09:47:47:104', '2016-06-29 09:47:48:192', '2016-06-29 09:47:49:287', '2016-06-29 09:47:50:396', '2016-06-29 09:47:51:480', '2016-06-29 09:47:52:568', '2016-06-29 09:47:53:652', '2016-06-29 09:47:54:725', '2016-06-29 09:47:55:804', '2016-06-29 09:47:56:909', '2016-06-29 09:47:58:020', '2016-06-29 09:47:59:231', '2016-06-29 09:48:00:424', '2016-06-29 09:48:01:538', '2016-06-29 09:48:02:717', '2016-06-29 09:48:03:931', '2016-06-29 09:48:05:138', '2016-06-29 09:48:06:363', '2016-06-29 09:48:07:579', '2016-06-29 09:48:08:819']
+        },
+        yAxis: {min:0,
+            title: {
+                text: 'CPU使用率(%)'
+            }
+        },
+        tooltip: {
+            formatter: function () {
+                var s = '<b>' + this.x + '</b>';
+
+                $.each(this.points, function () {
+                    s += '<br/>' + this.series.name + ': ' +
+                    parseFloat(this.y).toFixed(2) + ' % ' 
+                    // + '<b>' + this.point.activity + '</b>';
+                });
+
+                return s;
+            },
+            shared: true
+        },
+        plotOptions: {series: {marker: {enabled: false}},
+            line: {
+                dataLabels: {
+                    enabled: false
+                },
+                enableMouseTracking: true
+            }
+        },
+        series: [
+        {name: 'CPU_cpuinfo',data: 
+[0, 24.57590309959403, 43.16478948724977, 27.91891044844086, 65.33071066166491, 7.851298323283575, 18.46356573969229, 4.469694446603092, 2.735170854836539, 7.878091213566375, 3.65814266487214, 11.61885373567536, 26.98490369031009, 25.1228287784613, 27.51652675160692, 28.35847403661046, 7.268890268084447, 21.71256196596028, 13.09154897100884, 12.51336110663567, 10.97847585376779, 0.7617782891802364, 16.87974750758763, 13.0402748442787, 17.00343382170707, 24.31410965510048, 5.243840135165033, 11.19398833479655, 8.41143445198339, 5.300252791589238, 5.237027928457747, 7.011711682073888, 5.341816410451692, 6.593290624266286]
+        ,color:'#e47833'}]
+    });
+});
+</script>
+<script type="text/javascript">
+$(function () {
+    $('#Memory').highcharts({
+        chart: {
+            zoomType: 'x',
+            spacingRight: 20
+        },
+        title: {
+            text: 'Memory'
+        },
+        subtitle: {
+            text: document.ontouchstart === undefined ?
+                '选中区域可查看具体区域中的数据图表' :
+                'Pinch the chart to zoom in'
+        },
+        
+        xAxis: {
+          tickInterval: 5,
+            categories: 
+['2016-06-29 09:47:31:496', '2016-06-29 09:47:32:720', '2016-06-29 09:47:33:812', '2016-06-29 09:47:34:988', '2016-06-29 09:47:36:091', '2016-06-29 09:47:37:237', '2016-06-29 09:47:38:334', '2016-06-29 09:47:39:412', '2016-06-29 09:47:40:535', '2016-06-29 09:47:41:644', '2016-06-29 09:47:42:732', '2016-06-29 09:47:43:825', '2016-06-29 09:47:44:925', '2016-06-29 09:47:46:021', '2016-06-29 09:47:47:104', '2016-06-29 09:47:48:192', '2016-06-29 09:47:49:287', '2016-06-29 09:47:50:396', '2016-06-29 09:47:51:480', '2016-06-29 09:47:52:568', '2016-06-29 09:47:53:652', '2016-06-29 09:47:54:725', '2016-06-29 09:47:55:804', '2016-06-29 09:47:56:909', '2016-06-29 09:47:58:020', '2016-06-29 09:47:59:231', '2016-06-29 09:48:00:424', '2016-06-29 09:48:01:538', '2016-06-29 09:48:02:717', '2016-06-29 09:48:03:931', '2016-06-29 09:48:05:138', '2016-06-29 09:48:06:363', '2016-06-29 09:48:07:579', '2016-06-29 09:48:08:819']
+        },
+        yAxis: {
+          min: 0,
+          title: {
+              text: '内存占用(MB)'
+          },
+          labels:{formatter: function(){return parseInt(this.value/1024/1024) + 'MB'}}
+        },
+    tooltip: {
+            formatter: function () {
+                var s = '<b>' + this.x + '</b>';
+
+                $.each(this.points, function () {
+                    s += '<br/>' + this.series.name + ': ' + '<b>' +
+                    parseInt(this.y/1024/1024) + '</b>' + ' MB '
+                    // + '<b>' + this.point.activity + '</b>';
+                });
+
+                return s;
+            },
+            shared: true
+        },
+        legend: {
+            enabled: true
+        },
+        plotOptions: {
+            area: {
+                // fillColor: {
+                //     linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1},
+                //     stops: [
+                //         [0, Highcharts.getOptions().colors[0]],
+                //         [1, Highcharts.Color(Highcharts.getOptions().colors[0]).setOpacity(0).get('rgba')]
+                //     ]
+                // },
+                lineWidth: 1,
+                marker: {
+                    enabled: false
+                },
+                shadow: false,
+                states: {
+                    hover: {
+                        lineWidth: 1
+                    }
+                },
+                threshold: null
+            }
+        }, 
+        series: [{type: 'area',name: 'VirtualSize',data: 
+[709459968, 774832128, 832389120, 959053824, 999391232, 999538688, 1000407040, 1000407040, 1000407040, 998637568, 998637568, 999456768, 1049739264, 1054588928, 1070071808, 1085095936, 1058553856, 1079345152, 1074036736, 1070514176, 1083244544, 1083277312, 1097957376, 1073528832, 1085276160, 1092993024, 1093697536, 1093713920, 1094074368, 1094074368, 1094074368, 1094074368, 1087586304, 1087586304]
+            },{type: 'area',name: 'ResidentSize',data: 
+[233472, 15753216, 31948800, 33886208, 54702080, 54300672, 56655872, 56668160, 56676352, 56868864, 56885248, 57245696, 61628416, 63344640, 78827520, 64172032, 58941440, 66150400, 65826816, 63684608, 71561216, 71593984, 74936320, 72318976, 70070272, 71483392, 69697536, 64438272, 64909312, 64913408, 64913408, 64917504, 64278528, 64311296]
+            }
+        ]
+    });
+});       
+</script>
+
+<script type="text/javascript">
+$(function () {
+    $('#CoreAnimation').highcharts({
+        chart: {
+            zoomType: 'x',
+            spacingRight: 20
+        },
+        title: {
+            text: 'CoreAnimation'
+        },
+        subtitle: {
+            text: document.ontouchstart === undefined ?
+                '选中区域可查看具体区域中的数据图表' :
+                'Pinch the chart to zoom in'
+        },
+        
+        xAxis: {
+          tickInterval: 5,
+            categories: 
+['2016-06-29 09:47:31:496', '2016-06-29 09:47:32:720', '2016-06-29 09:47:33:812', '2016-06-29 09:47:34:988', '2016-06-29 09:47:36:091', '2016-06-29 09:47:37:237', '2016-06-29 09:47:38:334', '2016-06-29 09:47:39:412', '2016-06-29 09:47:40:535', '2016-06-29 09:47:41:644', '2016-06-29 09:47:42:732', '2016-06-29 09:47:43:825', '2016-06-29 09:47:44:925', '2016-06-29 09:47:46:021', '2016-06-29 09:47:47:104', '2016-06-29 09:47:48:192', '2016-06-29 09:47:49:287', '2016-06-29 09:47:50:396', '2016-06-29 09:47:51:480', '2016-06-29 09:47:52:568', '2016-06-29 09:47:53:652', '2016-06-29 09:47:54:725', '2016-06-29 09:47:55:804', '2016-06-29 09:47:56:909', '2016-06-29 09:47:58:020', '2016-06-29 09:47:59:231', '2016-06-29 09:48:00:424', '2016-06-29 09:48:01:538', '2016-06-29 09:48:02:717', '2016-06-29 09:48:03:931', '2016-06-29 09:48:05:138', '2016-06-29 09:48:06:363', '2016-06-29 09:48:07:579', '2016-06-29 09:48:08:819']
+        },
+        yAxis: {
+          plotLines: 
+          [{
+              color: '#FF0000',
+              width: 2,
+              value: 60,
+              label: {
+                text: '60 FPS',
+                align: 'left',
+                x: 0
+              }
+          }], 
+          min: 0,
+          max: 60,
+          title: {
+              text: '流畅度(FPS)'
+          },
+          labels:{formatter: function(){return parseInt(this.value)}}
+        },
+    tooltip: {
+            formatter: function () {
+                var s = '<b>' + this.x + '</b>';
+                $.each(this.points, function () {
+                    s += '<br/>' + this.series.name + ': ' + '<b>' +
+                    parseInt(this.y) + '</b>'
+                    // + '<b>' + this.point.activity + '</b>';
+                });
+                return s;
+            },
+            shared: true
+        },
+        legend: {
+            enabled: true
+        },
+        plotOptions: {
+            area: {
+                // fillColor: {
+                //     linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1},
+                //     stops: [
+                //         [0, Highcharts.getOptions().colors[0]],
+                //         [1, Highcharts.Color(Highcharts.getOptions().colors[0]).setOpacity(0).get('rgba')]
+                //     ]
+                // },
+                lineWidth: 1,
+                marker: {
+                    enabled: false
+                },
+                shadow: false,
+                states: {
+                    hover: {
+                        lineWidth: 1
+                    }
+                },
+                threshold: null
+            }
+        },    
+        series: [
+          {type: 'area',name: 'FPS',data: 
+[7.09459968, 7.74832128, 8.32389120, 9.59053824, 9.99391232, 19.99538688, 10.00407040, 12.000407040, 13.000407040, 29.98637568, 9.98637568, 9.99456768, 10.49739264, 10.54588928, 10.70071808, 22.1085095936, 21.058553856, 21.079345152, 10.74036736, 10.70514176, 31.083244544, 32.1083277312, 44.1097957376, 11.1073528832, 10.85276160, 10.92993024, 10.93697536, 10.93713920, 1.1094074368, 3.1094074368, 5.1094074368, 6.1094074368, 56.1087586304, 60.1087586304]
+        }]
+    });
+});       
+</script>
+
+<meta charset="utf-8">
+<title>Report</title>
+
+<style type="text/css">
+body {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  padding: 30px; }
+
+body > *:first-child {
+  margin-top: 0 !important; }
+body > *:last-child {
+  margin-bottom: 0 !important; }
+
+a {
+  color: #4183C4; }
+a.absent {
+  color: #cc0000; }
+a.anchor {
+  display: block;
+  padding-left: 30px;
+  margin-left: -30px;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0; }
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  cursor: text;
+  position: relative; }
+
+h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor {
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA09pVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoMTMuMCAyMDEyMDMwNS5tLjQxNSAyMDEyLzAzLzA1OjIxOjAwOjAwKSAgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OUM2NjlDQjI4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OUM2NjlDQjM4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo5QzY2OUNCMDg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo5QzY2OUNCMTg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsQhXeAAAABfSURBVHjaYvz//z8DJYCRUgMYQAbAMBQIAvEqkBQWXI6sHqwHiwG70TTBxGaiWwjCTGgOUgJiF1J8wMRAIUA34B4Q76HUBelAfJYSA0CuMIEaRP8wGIkGMA54bgQIMACAmkXJi0hKJQAAAABJRU5ErkJggg==) no-repeat 10px center;
+  text-decoration: none; }
+
+h1 tt, h1 code {
+  font-size: inherit; }
+
+h2 tt, h2 code {
+  font-size: inherit; }
+
+h3 tt, h3 code {
+  font-size: inherit; }
+
+h4 tt, h4 code {
+  font-size: inherit; }
+
+h5 tt, h5 code {
+  font-size: inherit; }
+
+h6 tt, h6 code {
+  font-size: inherit; }
+
+h1 {
+  font-size: 28px;
+  color: black; }
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #cccccc;
+  color: black; }
+
+h3 {
+  font-size: 18px; }
+
+h4 {
+  font-size: 16px; }
+
+h5 {
+  font-size: 14px; }
+
+h6 {
+  color: #777777;
+  font-size: 14px; }
+
+p, blockquote, ul, ol, dl, li, table, pre {
+  margin: 15px 0; }
+
+hr {
+  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x 0 0;
+  border: 0 none;
+  color: #cccccc;
+  height: 4px;
+  padding: 0;
+}
+
+body > h2:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+body > h1:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+  body > h1:first-child + h2 {
+    margin-top: 0;
+    padding-top: 0; }
+body > h3:first-child, body > h4:first-child, body > h5:first-child, body > h6:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0; }
+
+h1 p, h2 p, h3 p, h4 p, h5 p, h6 p {
+  margin-top: 0; }
+
+li p.first {
+  display: inline-block; }
+li {
+  margin: 0; }
+ul, ol {
+  padding-left: 30px; }
+
+ul :first-child, ol :first-child {
+  margin-top: 0; }
+
+dl {
+  padding: 0; }
+  dl dt {
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0;
+    margin: 15px 0 5px; }
+    dl dt:first-child {
+      padding: 0; }
+    dl dt > :first-child {
+      margin-top: 0; }
+    dl dt > :last-child {
+      margin-bottom: 0; }
+  dl dd {
+    margin: 0 0 15px;
+    padding: 0 15px; }
+    dl dd > :first-child {
+      margin-top: 0; }
+    dl dd > :last-child {
+      margin-bottom: 0; }
+
+blockquote {
+  border-left: 4px solid #dddddd;
+  padding: 0 15px;
+  color: #777777; }
+  blockquote > :first-child {
+    margin-top: 0; }
+  blockquote > :last-child {
+    margin-bottom: 0; }
+
+table {
+  padding: 0;border-collapse: collapse; }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+    table tr:nth-child(2n) {
+      background-color: #f8f8f8; }
+    table tr th {
+      font-weight: bold;
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr td {
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr th :first-child, table tr td :first-child {
+      margin-top: 0; }
+    table tr th :last-child, table tr td :last-child {
+      margin-bottom: 0; }
+
+img {
+  max-width: 100%; }
+
+span.frame {
+  display: block;
+  overflow: hidden; }
+  span.frame > span {
+    border: 1px solid #dddddd;
+    display: block;
+    float: left;
+    overflow: hidden;
+    margin: 13px 0 0;
+    padding: 7px;
+    width: auto; }
+  span.frame span img {
+    display: block;
+    float: left; }
+  span.frame span span {
+    clear: both;
+    color: #333333;
+    display: block;
+    padding: 5px 0 0; }
+span.align-center {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-center > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: center; }
+  span.align-center span img {
+    margin: 0 auto;
+    text-align: center; }
+span.align-right {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px 0 0;
+    text-align: right; }
+  span.align-right span img {
+    margin: 0;
+    text-align: right; }
+span.float-left {
+  display: block;
+  margin-right: 13px;
+  overflow: hidden;
+  float: left; }
+  span.float-left span {
+    margin: 13px 0 0; }
+span.float-right {
+  display: block;
+  margin-left: 13px;
+  overflow: hidden;
+  float: right; }
+  span.float-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: right; }
+
+code, tt {
+  margin: 0 2px;
+  padding: 0 5px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px; }
+
+pre code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent; }
+
+.highlight pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+  pre code, pre tt {
+    background-color: transparent;
+    border: none; }
+
+sup {
+    font-size: 0.83em;
+    vertical-align: super;
+    line-height: 0;
+}
+* {
+	-webkit-print-color-adjust: exact;
+}
+@media screen and (min-width: 914px) {
+    body {
+        width: 854px;
+        margin:0 auto;
+    }
+}
+@media print {
+	table, pre {
+		page-break-inside: avoid;
+	}
+	pre {
+		word-wrap: break-word;
+	}
+}
+</style>
+
+<style type="text/css">
+/**
+ * prism.js default theme for JavaScript, CSS and HTML
+ * Based on dabblet (http://dabblet.com)
+ * @author Lea Verou
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: black;
+	background: none;
+	text-shadow: 0 1px white;
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
+code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
+	text-shadow: none;
+	background: #b3d4fc;
+}
+
+pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
+code[class*="language-"]::selection, code[class*="language-"] ::selection {
+	text-shadow: none;
+	background: #b3d4fc;
+}
+
+@media print {
+	code[class*="language-"],
+	pre[class*="language-"] {
+		text-shadow: none;
+	}
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #f5f2f0;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: slategray;
+}
+
+.token.punctuation {
+	color: #999;
+}
+
+.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.boolean,
+.token.number,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #905;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #690;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string {
+	color: #a67f59;
+	background: hsla(0, 0%, 100%, .5);
+}
+
+.token.atrule,
+.token.attr-value,
+.token.keyword {
+	color: #07a;
+}
+
+.token.function {
+	color: #DD4A68;
+}
+
+.token.regex,
+.token.important,
+.token.variable {
+	color: #e90;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+</style>
+
+<script type="text/javascript">
+  
+</script>
+
+</head>
+
+<body>
+
+<h1 id="toc_0">iOS专项测试报告</h1>
+
+<hr>
+
+<h2 id="toc_1">目的</h2>
+
+<p>用评分的形式通过<strong>性能、稳定性</strong>等两方面对APP进行评估</p>
+
+<h2 id="toc_2">总分:<font color="red">77</font></h2>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>占比</th>
+<th>总分</th>
+<th>总得分</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>性能</td>
+<td>80%</td>
+<td>80</td>
+<td>67</td>
+</tr>
+<tr>
+<td>稳定性</td>
+<td>20%</td>
+<td>20</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>100%</td>
+<td>100</td>
+<td>77</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="toc_3">检测项</h2>
+
+<h3 id="toc_4">性能</h3>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>场景</th>
+<th>检查点</th>
+<th>总分</th>
+<th>权重</th>
+<th>得分</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>启动时间</td>
+<td>热启动时间</td>
+<td>启动时间不超过2秒</td>
+<td>80</td>
+<td>10%</td>
+<td>8</td>
+</tr>
+<tr>
+<td>页面加载时间</td>
+<td>场景1：XXX</td>
+<td>主要业务场景加载时间不超过2秒</td>
+<td>80</td>
+<td>10%</td>
+<td>8</td>
+</tr>
+<tr>
+<td>页面加载时间</td>
+<td>场景2：XXX</td>
+<td>主要业务场景加载时间不超过2秒</td>
+<td>80</td>
+<td>10%</td>
+<td>8</td>
+</tr>
+<tr>
+<td>页面加载时间</td>
+<td>场景3：XXX</td>
+<td>主要业务加载时间不超过2秒</td>
+<td>80</td>
+<td>10%</td>
+<td>8</td>
+</tr>
+<tr>
+<td>流量</td>
+<td>场景1：XXX</td>
+<td>主要页面流量不超过200KB</td>
+<td>80</td>
+<td>10%</td>
+<td>8</td>
+</tr>
+<tr>
+<td>流量</td>
+<td>场景2：XXX</td>
+<td>主要页面流量不超过200KB</td>
+<td>80</td>
+<td>10%</td>
+<td>8</td>
+</tr>
+<tr>
+<td>流量</td>
+<td>场景3：XXX</td>
+<td>主要页面流量不超过200KB</td>
+<td>80</td>
+<td>10%</td>
+<td>8</td>
+</tr>
+<tr>
+<td>内存</td>
+<td>场景：手动各页面浏览</td>
+<td>实际使用内存不超过80M</td>
+<td>80</td>
+<td>10%</td>
+<td>8</td>
+</tr>
+<tr>
+<td>内存</td>
+<td>场景：手动各页面浏览</td>
+<td>没有明显内存抖动</td>
+<td>80</td>
+<td>10%</td>
+<td>8</td>
+</tr>
+<tr>
+<td>内存</td>
+<td>场景：手动各页面浏览</td>
+<td>没有内存泄漏</td>
+<td>80</td>
+<td>10%</td>
+<td>8</td>
+</tr>
+<tr>
+<td>CPU</td>
+<td>场景：手动各页面浏览</td>
+<td>cpu使用率不超过80%</td>
+<td>80</td>
+<td>10%</td>
+<td>8</td>
+</tr>
+<tr>
+<td>流畅度</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>耗电量</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>-</td>
+<td>-</td>
+<td>80</td>
+<td>100%</td>
+<td>80</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="toc_5">稳定性</h3>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>场景</th>
+<th>检查点</th>
+<th>总分</th>
+<th>权重</th>
+<th>得分</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Monkey测试</td>
+<td>无网络持续运行1个小时</td>
+<td>异常概率小于7‰</td>
+<td>20</td>
+<td>20%</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Monkey测试</td>
+<td>弱网络持续运行1个小时</td>
+<td>异常概率小于7‰</td>
+<td>20</td>
+<td>20%</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Monkey测试</td>
+<td>正常网络持续运行1个小时</td>
+<td>异常概率小于7‰</td>
+<td>20</td>
+<td>20%</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Monkey测试</td>
+<td>无后台进程持续1个小时</td>
+<td>异常概率小于7‰</td>
+<td>20</td>
+<td>20%</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Monkey测试</td>
+<td>系统CPU&gt;80%持续运行1个小时</td>
+<td>异常概率小于7‰</td>
+<td>20</td>
+<td>20%</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>-</td>
+<td>-</td>
+<td>20</td>
+<td>100%</td>
+<td>20</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="toc_6">报告详情：</h2>
+
+<h2 id="toc_7">0x00 测试设备信息</h2>
+
+<table>
+<thead>
+<tr>
+<th>手机型号</th>
+<th>手机系统</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>iPhone6P</td>
+<td>9.2.1</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="toc_8">0x01 启动时间</h2>
+
+<h3 id="toc_9">背景信息</h3>
+
+<blockquote>
+<p><strong>测试方法1：</strong><code>instruments</code>中的<code>Time Profiler</code></p>
+
+<p>1.Profiler你的app<br>
+2.然后查看切换到<strong>CPU strategy view</strong>，找到你的app启动的第一帧<br>
+3.搜索<strong>[UIApplication _reportAppLaunchFinished]</strong>，
+找到包含<strong>[UIApplication _reportAppLaunchFinished]</strong>的
+最后一帧，即可计算出启动时间<br>
+<em>PS:9.0以上系统可以搜</em><em>_reportMainSceneUpdateFinished</em>**</p>
+
+<p><strong>测试方法2：</strong><code>NSLog</code>  </p>
+
+<p>在iOS源码中打log。<br>
+<strong>优点：</strong>易优化，能清楚的定位到程序员编写的代码执行的时间；<br>
+<strong>缺点：</strong>得到的结果并不是用户实际感知到的时间</p>
+
+<p><strong>测试方法3：</strong>使用第三方录屏工具</p>
+
+<p><strong>优点：</strong>得到的结果与用户实际感知的时间相一致；<br>
+<strong>缺点：</strong>无法做成自动化，比较费时；无法统计本地代码与服务器请求各花费多少时间</p>
+</blockquote>
+
+<h3 id="toc_10">场景</h3>
+
+<p>-----------------------可视化图表（ToBeDone）-------------</p>
+
+<table>
+<thead>
+<tr>
+<th>WiFi</th>
+<th>第一次</th>
+<th>第二次</th>
+<th>第三次</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>热启动进行妈妈帮首页</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="toc_11">策略</h3>
+
+<ul>
+<li><strong>首先，</strong>需要采取第三种方法站在用户的角度来看应用的启动时间，因为这是最重要的指标，用户能感知到的时间。</li>
+<li><strong>其次，</strong>需要开发配合使用第二种方法在源码中插桩来看客户端逻辑层中花费的时间，以及收集服务端响应时间，来优化。</li>
+<li><strong>最后，</strong>以用户感知时间为标准，不断的进行优化。</li>
+<li>需要关注不同网络情况下的启动时间</li>
+</ul>
+
+<h2 id="toc_12">0x02 页面加载时间</h2>
+
+<h3 id="toc_13">背景信息</h3>
+
+<blockquote>
+<p>页面加载时间与启动时间统计方法基本类似，但是由于页面加载时调用的方法不容易统计，所以无法使用上述第一种方法统计,（但是开发还是可以使用<code>Time Profile</code>来定位一些问题）</p>
+
+<p><strong>测试方法2：</strong><code>NSLog</code></p>
+
+<p><strong>测试方法3：</strong>使用第三方录屏工具</p>
+</blockquote>
+
+<h3 id="toc_14">场景</h3>
+
+<p>-----------------------可视化图表（ToBeDone）-------------</p>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>第一次</th>
+<th>第二次</th>
+<th>...</th>
+<th>第十次</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>进入帮列表页面</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>进入妈妈帮首页</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="toc_15">策略</h3>
+
+<ul>
+<li>同启动时间策略</li>
+</ul>
+
+<h2 id="toc_16">0x03 流量统计</h2>
+
+<h3 id="toc_17">背景信息</h3>
+
+<blockquote>
+<p><strong>测试方法1：</strong> <code>instruments</code>中的<code>Network Activity</code><br>
+<strong>测试方法2：</strong> 直接用Xcode真机Debug</p>
+</blockquote>
+
+<h3 id="toc_18">场景</h3>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>第一次</th>
+<th>第二次</th>
+<th>第三次</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>进入帮列表页面</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>进入妈妈帮首页</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>...</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="toc_19">策略</h3>
+
+<ul>
+<li>同启动时间</li>
+</ul>
+
+<h2 id="toc_20">0x04 内存</h2>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>平均值</th>
+<th>最大值</th>
+<th>最小值</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td id="memory_real">实际内存(MB)</td>
+<td id="memory_real_avg">NA</td>
+<td id="memory_real_max">NA</td>
+<td id="memory_real_min">NA</td>
+</tr>
+<tr>
+<td id="memory_virtual" style="TEXT-DECORATION: line-through">虚拟内存(MB)</td>
+<td id="memory_virtual_avg" style="TEXT-DECORATION: line-through">NA</td>
+<td id="memory_virtual_max" style="TEXT-DECORATION: line-through">NA</td>
+<td id="memory_virtual_min" style="TEXT-DECORATION: line-through">NA</td>
+</tr>
+</tbody>
+</table>
+
+<div id="Memory" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+<h2 id="toc_21">0x05 CPU</h2>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>平均值</th>
+<th>最大值</th>
+<th>最小值</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td id="cpu">cpu使用率(%)</td>
+<td id="cpu_avg">NA</td>
+<td id="cpu_max">NA</td>
+<td id="cpu_min">NA</td>
+</tr>
+</tbody>
+</table>
+
+<div id="CPU" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+<h2 id="toc_22">0x06 流畅度</h2>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>平均值</th>
+<th>最大值</th>
+<th>最小值</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td id="fps">流畅度(fps)</td>
+<td id="fps_avg">NA</td>
+<td id="fps_max">NA</td>
+<td id="fps_min">NA</td>
+</tr>
+</tbody>
+</table>
+
+<div id="CoreAnimation" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+<p>可以直接用Xcode真机Debug<br>
+<code>Activity Monitor</code><br>
+内存泄漏<code>Leaks</code></p>
+
+<h2 id="toc_23">0x07 CrashMonkey4IOS</h2>
+
+<ul>
+<li>无网络持续运行1个小时</li>
+<li>弱网络持续运行1个小时</li>
+<li>正常网络持续运行1个小时</li>
+<li>无后台进程持续1个小时</li>
+<li>系统CPU&gt;80%持续运行1个小时</li>
+</ul>
+
+<script src="http://cdn.hcharts.cn/highcharts/highcharts.js"></script>
+</hr>
+</body>
+</html>
